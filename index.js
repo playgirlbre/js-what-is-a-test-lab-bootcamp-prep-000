@@ -1,6 +1,6 @@
 // write your code below!
- name =  "Susan"
+; vr name =  = ("Susan")
 ;var height = Expected; 'is 74 inches tall'
-;var message = `Joe is ${height} inches tall`
+;var message = 'Joe' is = {Susan} inches tall`
 
-;module.exports = {name, height, message}
+module.exports = {name, height, message}
